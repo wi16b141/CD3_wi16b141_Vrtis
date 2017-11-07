@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26730.16
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CD3_wi16b141_Vrtis", "CD3_wi16b141_Vrtis\CD3_wi16b141_Vrtis.csproj", "{C68F4ECA-91A7-47DD-A82F-DF77DC398388}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shared", "..\..\..\Visual Studio 2015\Projects\Project8\2017\BB_VZ\Dojos\CD3\Shared\Shared.csproj", "{1938FF64-FC06-457F-B245-C60D3FF48B2E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{C68F4ECA-91A7-47DD-A82F-DF77DC398388}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C68F4ECA-91A7-47DD-A82F-DF77DC398388}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C68F4ECA-91A7-47DD-A82F-DF77DC398388}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1938FF64-FC06-457F-B245-C60D3FF48B2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1938FF64-FC06-457F-B245-C60D3FF48B2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1938FF64-FC06-457F-B245-C60D3FF48B2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1938FF64-FC06-457F-B245-C60D3FF48B2E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
