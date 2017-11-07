@@ -13,7 +13,7 @@ namespace CD3_wi16b141_Vrtis.ViewModel
     public class ItemVm : ViewModelBase
     {
         //properties
-        //properties - ItemBase
+        //properties - BaseModel
         private ItemBase baseItem; //Abstraktion, um das Model von der View zu trennen
 
         public int Id
@@ -46,9 +46,8 @@ namespace CD3_wi16b141_Vrtis.ViewModel
             set { baseItem.PosY = value; RaisePropertyChanged(); }
         }
 
-        //properties - Interfaces
-        //ValueType liefert eine string-Repräsentation des ValueType zurück (zB "Boolean")
-        
+        //properties - Models
+        //ValueType liefert eine string-Repräsentation des ValueType zurück (zB "Boolean")        
         public string ValueType
         {
             get

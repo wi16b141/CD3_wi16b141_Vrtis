@@ -133,7 +133,7 @@
                 <Border Grid.Row="1" Margin="5,0" BorderThickness="0,1,0,0" BorderBrush="LightGray">
 
                     <StackPanel >
-                        <StackPanel Orientation="Horizontal">
+                        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
                             <Image Margin="10,10,0,10" Height="35" Source="Images/Bell New-WF.png"/>
                             <Image Margin="0,10,0,10" Height="35" Source="Images/Speaker Decrease - 01.png"/>
                             <Label Content="4" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="18" Foreground="White"/>
